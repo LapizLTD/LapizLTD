@@ -2,16 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&reversal=true&text=Hi%20there&fontSize=48&fontAlignY=35&height=150" width="100%" align="center"></img>
 </a>
 
-We are Lapiz. We develop things, because We want them better then other people have done it. <br>
-We live in the [Iran](https://www.openstreetmap.org/relation/304938)<br>
-And you're the <img src="https://profile-counter.glitch.me/LapizLTD/count.svg"></img>th visitor of this page.
-<img src="https://komarev.com/ghpvc/?username=LapizLTD&label=Profile%20views&color=lightgrey&style=flat" alt="LapizLTD"></img>
-
-## Develop for Fun
-- 🔭 We are currently working on: [Lapiz dot fun](https://lapiz.fun)
-- 💬 Ask us about anything we maybe can know.
-- 📫 How to reach us: Make an issue on my GitHub pages or start a discussion [here](https://t.me/lapizltdbot)
-- 😄 Pronouns: It.
+We are Lapiz.<br><br>
+You're the <img src="https://profile-counter.glitch.me/LapizLTD/count.svg"></img>th visitor of this page XD.
 
 ## 🔥 Some of our Github Stats
 
@@ -30,3 +22,8 @@ And you're the <img src="https://profile-counter.glitch.me/LapizLTD/count.svg"><
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LapizLTD)
 ### Top Languages
 ![op](https://github-readme-stats.vercel.app/api/top-langs/?username=LapizLTD&theme=radical&layout=compact&langs_count=6&hide_border=true)
+
+## Reach us by:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lapizltd1@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lapizltd_bot)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/danielcoderx)
