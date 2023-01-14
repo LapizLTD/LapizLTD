@@ -27,3 +27,6 @@ You're the <img src="https://profile-counter.glitch.me/LapizLTD/count.svg"></img
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lapizltd1@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lapizltd_bot)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/danielcoderx)
+
+## Donation
+<script src="https://ka-fi.ir/widget.js" url ="lapiz" text-color="black" bg-color="#FFDD00" text="یه قهوه برام بخر"></script>
