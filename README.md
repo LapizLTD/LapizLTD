@@ -29,4 +29,4 @@ You're the <img src="https://profile-counter.glitch.me/LapizLTD/count.svg"></img
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/danielcoderx)
 
 ## Donation
-<script src="https://ka-fi.ir/widget.js" url ="lapiz" text-color="black" bg-color="#FFDD00" text="یه قهوه برام بخر"></script>
+![برام یه قهوه بخر](https://ka-fi.ir/lapiz)
