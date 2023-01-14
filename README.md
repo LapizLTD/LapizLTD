@@ -29,4 +29,7 @@ You're the <img src="https://profile-counter.glitch.me/LapizLTD/count.svg"></img
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/danielcoderx)
 
 ## Donation
-![برام یه قهوه بخر](https://ka-fi.ir/lapiz)
+[برام یه قهوه بخر](https://ka-fi.ir/lapiz)
+Doge:
+Usdt(trc20): 
+BTC: 
